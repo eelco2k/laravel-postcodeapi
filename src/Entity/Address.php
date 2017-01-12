@@ -1,6 +1,6 @@
 <?php
 
-namespace eelco2k\PostcodeApi\Entity;
+namespace nickurt\PostcodeApi\Entity;
 
 class Address
 {
